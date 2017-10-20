@@ -13,6 +13,9 @@ section {
 h1, p, h2 {
   text-align: center;
 }
+.s1 {
+  height: 300px;
+}
 .responsive {
   font-size: 1.0em;
 }
@@ -21,8 +24,10 @@ h1, p, h2 {
   width: 200px;
 }
 .team {
-  margin-top: -285px;
-  float:right;
+  margin: 0 auto;
   width: 15%;
   height: 20%;
+}
+.s2 {
+  height: 300px;
 }
