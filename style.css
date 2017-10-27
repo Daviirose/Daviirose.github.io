@@ -10,11 +10,17 @@ section {
   border-radius: 10px;
   margin-bottom: 15px;
 }
+.githubcontainer {
+  height: 550px;
+}
+p {
+  font-size: 18px;
+}
 h1, p, h2 {
   text-align: center;
 }
 .s1 {
-  height: 300px;
+  height: 400px;
 }
 .responsive {
   font-size: 1.0em;
@@ -24,10 +30,14 @@ h1, p, h2 {
   width: 200px;
 }
 .team {
-  margin: 0 auto;
   width: 15%;
-  height: 20%;
+  height: 30%;
 }
 .s2 {
   height: 300px;
+}
+.sass {
+  margin: 0px auto;
+  width: 20%;
+  height: 30%;
 }
